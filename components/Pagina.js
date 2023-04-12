@@ -5,7 +5,7 @@ import Cabecalho from './Cabecalho'
 
 const Pagina = (props) => {
 
-  console.log(props)
+  //console.log(props)
 
   return (
     <>
